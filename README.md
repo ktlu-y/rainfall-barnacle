@@ -1,5 +1,5 @@
-Clone the repo
+Clone the repo:
 https://github.com/ktlu-y/rainfall-barnacle.git
 
-Used Library
+Used Library:
 pip install matplotlib
